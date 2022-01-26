@@ -24,7 +24,7 @@
 <a href="https://open.spotify.com/user/12140278106">
   <img align="left" alt="Ricardo's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-<a href="https://steamcommunity.com/id/76561198083891338/">
+<a href="https://steamcommunity.com/profiles/76561198083891338/">
   <img  aling="left" alt= "ricardo instagram" width="22px"
 src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg" />
 
