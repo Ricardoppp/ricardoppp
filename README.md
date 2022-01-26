@@ -19,12 +19,12 @@
 - Actually learning Python 
 
 <a href="https://twitter.com/Nevuus1">
-  <img align="left" alt="Ricardo | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Ricardo | Twitter" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://open.spotify.com/user/12140278106">
-  <img align="left" alt="Ricardo's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Ricardo's Spotify" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 <a href="https://steamcommunity.com/profiles/76561198083891338/">
-  <img  aling="left" alt= "ricardo instagram" width="22px"
+  <img  aling="left" alt= "ricardo instagram" width="42px"
 src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg" />
 
