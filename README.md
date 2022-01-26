@@ -12,4 +12,4 @@ Please to meet you, I'm Ricardo Prieto from colombia to the world!
 - enthusiastic of PC Gaming 
 - Actually learning Python 
 
-[![Spotify](https://github.com/novatorem/novatorem)](https://open.spotify.com/user/12140278106)
+[![Spotify](spotify-now-playing-vus88swgz-ricardoppp.vercel.app)](https://open.spotify.com/user/12140278106)
