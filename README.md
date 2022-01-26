@@ -21,7 +21,8 @@
 - enthusiastic of PC Gaming 
 - Actually learning Python 
 
-![giphy](https://user-images.githubusercontent.com/98360348/151096415-2a901415-d905-4b4d-bf19-cb86bcaa704e.gif) ![mini 2](https://user-images.githubusercontent.com/98360348/151097362-f1b084f2-0c3d-4f66-9505-d2cc25efff23.jpeg)
+![giphy](https://user-images.githubusercontent.com/98360348/151096415-2a901415-d905-4b4d-bf19-cb86bcaa704e.gif) ![mini 3](https://user-images.githubusercontent.com/98360348/151097541-f0bd078a-1398-4d8d-916a-8e250de885c7.jpeg)
+
 
 
 
