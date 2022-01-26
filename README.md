@@ -15,10 +15,13 @@
 
 
 
+
 - I'm 23 years old 
 - I'm student Systems Engineering on EAN university 
 - enthusiastic of PC Gaming 
 - Actually learning Python 
+
+![giphy](https://user-images.githubusercontent.com/98360348/151096415-2a901415-d905-4b4d-bf19-cb86bcaa704e.gif) ![mini 2](https://user-images.githubusercontent.com/98360348/151097362-f1b084f2-0c3d-4f66-9505-d2cc25efff23.jpeg)
 
 
 
