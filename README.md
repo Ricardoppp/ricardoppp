@@ -21,6 +21,7 @@
 - Actually learning Python 
 
 
+
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/Nevuus1">
   <img align="left" alt="Ricardo | Twitter" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
