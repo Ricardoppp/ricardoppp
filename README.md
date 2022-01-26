@@ -23,5 +23,8 @@
 </a>
 <a href="https://open.spotify.com/user/12140278106">
   <img align="left" alt="Ricardo's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
- <p align="left">
-    <a href="https://steamcommunity.com/id/76561198083891338/"><img alt="Steam" title="Steam" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg"></a>
+</a>
+<a href="https://steamcommunity.com/id/76561198083891338/">
+  <img  aling="left" alt= "ricardo instagram" width="22px"
+src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg" />
+
