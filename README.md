@@ -20,6 +20,8 @@
 - enthusiastic of PC Gaming 
 - Actually learning Python 
 
+
+<h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/Nevuus1">
   <img align="left" alt="Ricardo | Twitter" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -32,6 +34,6 @@ src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/ste
 
 
   
-<h3 align="left">Languages and Tools:<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" height="30"</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> 
-<p align="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vsc" width="40" height="40"/> </a>  </p>
+<h3 align="left">Languages and Tools:</h3>
+<img align="left" alt="Python" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>
+<img align="left" alt="Visual Studio Code" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
