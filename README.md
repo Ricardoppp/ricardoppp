@@ -18,4 +18,4 @@
 - enthusiastic of PC Gaming 
 - Actually learning Python 
 
-[![Spotify](spotify-now-playing-vus88swgz-ricardoppp.vercel.app)](https://open.spotify.com/user/12140278106)
+[![Spotify](spotify-now-playing-umber-alpha.vercel.app)](https://open.spotify.com/user/12140278106)
