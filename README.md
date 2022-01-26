@@ -5,7 +5,7 @@
 
 <img align="left" src="https://orhun.dev/img/crow.png">
 
-# Hello to my first profile ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
+# Hello There ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
 
 ## Please to meet you, I'm Ricardo Prieto from colombia to the world!
@@ -31,7 +31,7 @@
   <img align="left" alt="Ricardo | Twitter" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://open.spotify.com/user/12140278106">
-  <img align="left" alt="Ricardo's Spotify" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Ricardo's Spotify" width="42px" src="https://open.spotify.com/user/12140278106" />
 </a>
 <a href="https://steamcommunity.com/profiles/76561198083891338/">
   <img  aling="left" alt= "ricardo instagram" width="42px"
