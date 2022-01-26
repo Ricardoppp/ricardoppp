@@ -18,4 +18,8 @@
 - enthusiastic of PC Gaming 
 - Actually learning Python 
 
-[![Spotify](spotify-now-playing-git-master-ricardoppp.vercel.app)](https://open.spotify.com/user/12140278106)
+<a href="https://twitter.com/Nevuus1">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://open.spotify.com/user/12140278106">
+  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
