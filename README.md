@@ -22,19 +22,6 @@
 
 ### 狂感できない / 八十八ヶ所巡礼
 
-
-<h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/Nevuus1">
-  <img align="left" alt="Ricardo | Twitter" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://open.spotify.com/user/12140278106">
-  <img align="left" alt="Ricardo's Spotify" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-<a href="https://steamcommunity.com/profiles/76561198083891338/">
-  <img  aling="left" alt= "ricardo instagram" width="42px"
-src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg" />
-
-
   
 <h3 align="left">Languages and Tools:</h3>
 <img align="left" alt="Python" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>
