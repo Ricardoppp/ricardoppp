@@ -37,9 +37,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Ricardoppp/Ricardoppp/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 ### 狂感できない / 八十八ヶ所巡礼
